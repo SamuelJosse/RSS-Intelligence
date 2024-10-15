@@ -1,0 +1,16 @@
+time
+requests
+bs4
+textract
+feedparser
+hashlib
+langdetect
+shelve
+snowballstemmer
+stop_words
+re
+sklearn
+joblib
+collections
+elasticsearch
+pandas
